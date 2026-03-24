@@ -1,3 +1,3 @@
 <?php
-echo "Hola mi nombre completo es Angela Rojas";
+echo "Hola yo soy Angela Rojas";
 ?>
